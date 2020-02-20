@@ -1,0 +1,11 @@
+{
+  "name": "draft-editor-styled-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "draft-js": "^0.11.4",
+    "react": "^16.12.0",
+    "styled-components": "^5.0.1"
+  }
+}
